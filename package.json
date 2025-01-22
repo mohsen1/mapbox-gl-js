@@ -18,7 +18,7 @@
     "csscolorparser": "^1.0.2",
     "earcut": "^2.0.3",
     "feature-filter": "^2.2.0",
-    "geojson-rewind": "^0.1.0",
+    "geojson-rewind": "^0.3.1",
     "geojson-vt": "^2.4.0",
     "grid-index": "^1.0.0",
     "mapbox-gl-function": "mapbox/mapbox-gl-function#4f829622413f336080d3c710244c251421c0ec30",
