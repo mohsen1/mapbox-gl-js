@@ -14,7 +14,7 @@
   "dependencies": {
     "@mapbox/gl-matrix": "^0.0.1",
     "brfs": "^1.4.0",
-    "bubleify": "^0.5.1",
+    "bubleify": "^0.7.0",
     "csscolorparser": "^1.0.2",
     "earcut": "^2.0.3",
     "feature-filter": "^2.2.0",
